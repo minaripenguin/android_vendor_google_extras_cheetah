@@ -121,7 +121,6 @@ system_ext/priv-app/PixelQualifiedNetworksService/PixelQualifiedNetworksService.
 # Permissions
 system_ext/etc/permissions/privapp-permissions-google-se.xml:system_ext/etc/permissions/privapp-permissions-google-se-lineage.xml
 system_ext/etc/permissions/com.verizon.llkagent.xml
-system_ext/etc/permissions/org.carconnectivity.android.digitalkey.timesync.xml
 system_ext/etc/permissions/privapp-permissions-qorvo.xml
 product/etc/permissions/android.hardware.biometrics.face.xml
 product/etc/permissions/android.hardware.telephony.euicc.xml
@@ -145,7 +144,6 @@ system_ext/etc/permissions/google-ril.xml
 system_ext/framework/RadioConfigLib.jar
 system_ext/framework/google-ril.jar
 system_ext/priv-app/CarrierSetup/CarrierSetup.apk;PRESIGNED
-system_ext/priv-app/CccDkTimeSyncService/CccDkTimeSyncService.apk;PRESIGNED
 system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk
 system_ext/priv-app/EuiccGoogleOverlay/EuiccGoogleOverlay.apk
 system_ext/priv-app/EuiccSupportPixel/DKA_RC7_DVT.in

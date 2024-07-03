@@ -291,19 +291,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "CccDkTimeSyncService",
-	owner: "google",
-	apk: "proprietary/system_ext/priv-app/CccDkTimeSyncService/CccDkTimeSyncService.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
 	name: "ConnectivityThermalPowerManager",
 	owner: "google",
 	apk: "proprietary/system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk",

@@ -406,7 +406,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/cheetah/proprietary/system_ext/etc/permissions/com.verizon.llkagent.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.verizon.llkagent.xml \
     vendor/google/cheetah/proprietary/system_ext/etc/permissions/google-ril.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/google-ril.xml \
     vendor/google/cheetah/proprietary/system_ext/etc/permissions/oemrilhook.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/oemrilhook.xml \
-    vendor/google/cheetah/proprietary/system_ext/etc/permissions/org.carconnectivity.android.digitalkey.timesync.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/org.carconnectivity.android.digitalkey.timesync.xml \
     vendor/google/cheetah/proprietary/system_ext/etc/permissions/privapp-permissions-google-se-lineage.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-google-se-lineage.xml \
     vendor/google/cheetah/proprietary/system_ext/etc/permissions/privapp-permissions-qorvo.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-qorvo.xml \
     vendor/google/cheetah/proprietary/system_ext/etc/permissions/vzw_mvs_permissions.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/vzw_mvs_permissions.xml \
